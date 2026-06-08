@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parent AI",
+  "description": "An offline-first, privacy-friendly parenting dashboard that helps monitor screen time, app usage, habit scores, and digital well-being without relying on external servers or APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
